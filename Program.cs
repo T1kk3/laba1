@@ -113,7 +113,7 @@ namespace laba1
         File.Delete("user.json");
         Console.WriteLine("Готово.");
       }
-      // ------------------------------------------------------------------     xDoc.Load($"{path}/file.xml");
+      // ------------------------------------------------------------------
 
       List<User> users = new List<User>();
 
